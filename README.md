@@ -1,6 +1,6 @@
 ### Hi there 👋  
 ## My name is Mehdi Asadli
-I am a Full-Stack Software Engineer, Technology Entusiast and Movie Buff 
+I am a Software Engineer, Technology Entusiast and Movie Buff 
 
 [![Linkedin: mehdiasadli](https://img.shields.io/badge/-mehdiasadli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mehdi-asadli-52143b194/)](https://www.linkedin.com/in/mehdi-asadli-52143b194/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/mehdiasadli?label=follow&style=social)](https://github.com/mehdiasadli)
